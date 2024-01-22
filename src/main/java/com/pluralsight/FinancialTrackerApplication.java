@@ -2,6 +2,7 @@ package com.pluralsight;
 
 import com.pluralsight.colors.ConsoleColors;
 import com.pluralsight.models.Transaction;
+import org.springframework.stereotype.Component;
 
 import java.io.*;
 import java.time.LocalDate;
@@ -12,6 +13,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+@Component
 public class FinancialTrackerApplication {
 
     private static ArrayList<Transaction> transactions = new ArrayList<>();
