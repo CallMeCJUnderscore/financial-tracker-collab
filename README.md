@@ -1,4 +1,4 @@
-# FinancialTracker Capstone
+# FinancialTracker Capstone - Group Edition
 
 This is my first capstone for the Fall 2023 Course of the Pluralsight Learn-To-Code Academy.
 
