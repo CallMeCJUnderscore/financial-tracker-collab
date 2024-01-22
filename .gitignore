@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 .idea/csv-editor.xml
+.idea/
 
 ### Eclipse ###
 .apt_generated
